@@ -1,0 +1,10 @@
+torch>=2.0
+torchvision>=0.15
+diffusers>=0.27,<1.0
+transformers>=4.40
+accelerate>=0.27
+safetensors>=0.4
+huggingface_hub>=0.20
+Pillow>=9.5
+numpy>=1.24
+dlib>=19.24
